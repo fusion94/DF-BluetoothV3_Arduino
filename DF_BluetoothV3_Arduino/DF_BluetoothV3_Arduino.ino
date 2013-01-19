@@ -1,6 +1,7 @@
 /*
 
- DF-BluetoothV3 Bluetooth module
+ * DF-BluetoothV3 Bluetooth modulef rom DFRobot
+ * https://github.com/fusion94/DF-BluetoothV3_Arduino
  
  Intefaces the DF-BluetoothV3 Bluetooth module with most Arduino contollers.
  
@@ -9,10 +10,8 @@
  your Arduino, but the uploading will fail as the DF-Bluetooth module occupying 
  the TX/RX pins.
  
- * Copyright (c) 2012 by Tony Guntharp. All Rights Reserved.
- * Licensed under the terms of the Apache Public License
- * Please see the LICENSE included with this distribution for details.
- 
+ * Copyright 2011-2013, http://fusion94.org
+ * Licensed under the Mozilla Public License Version 2.0
  */
 
 void setup() {
